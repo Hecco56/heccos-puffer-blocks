@@ -1,0 +1,33 @@
+{
+  "puffer_block_break": {
+    "subtitle": "sounds.pufferblocks.puffer_block_break",
+    "sounds": [
+      "pufferblocks:puffer_block_break",
+      "pufferblocks:puffer_block_break1",
+      "pufferblocks:puffer_block_break2",
+      "pufferblocks:puffer_block_break3"
+    ]
+  },
+  "puffer_block_hit": {
+    "subtitle": "sounds.pufferblocks.puffer_block_hit",
+    "sounds": [
+      "pufferblocks:puffer_block_hit",
+      "pufferblocks:puffer_block_hit1",
+      "pufferblocks:puffer_block_hit2"
+    ]
+  },
+  "puffer_block_place": {
+    "subtitle": "sounds.pufferblocks.puffer_block_place",
+    "sounds": [
+      "pufferblocks:puffer_block_place",
+      "pufferblocks:puffer_block_place1",
+      "pufferblocks:puffer_block_place2"
+    ]
+  },
+  "puffer_block_walk": {
+    "subtitle": "sounds.pufferblocks.puffer_block_walk",
+    "sounds": [
+      "pufferblocks:puffer_block_walk"
+    ]
+  }
+}
