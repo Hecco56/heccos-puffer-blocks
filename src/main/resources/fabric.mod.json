@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "pufferblocks",
+  "version": "${version}",
+
+  "name": "Hecco's Puffer Blocks",
+  "description": "Adds Pufferfish Blocks!",
+  "authors": [
+    "Hecco"
+  ],
+  "contact": {
+    "homepage": "https://twitter.com/hecco",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/pufferblocks/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "hecco.puffer.blocks.PufferBlocks"
+    ],
+    "client": [
+      "hecco.puffer.blocks.PufferBlocksClientMod"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "fabric-api": "*",
+    "minecraft": "~1.19.4",
+    "java": ">=17"
+  },
+  "suggests": {
+  }
+}
