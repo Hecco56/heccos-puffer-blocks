@@ -1,6 +1,6 @@
 {
   "puffer_block_break": {
-    "subtitle": "sounds.pufferblocks.puffer_block_break",
+    "subtitle": "subtitles.block.generic.break",
     "sounds": [
       "pufferblocks:puffer_block_break",
       "pufferblocks:puffer_block_break1",
@@ -9,7 +9,7 @@
     ]
   },
   "puffer_block_hit": {
-    "subtitle": "sounds.pufferblocks.puffer_block_hit",
+    "subtitle": "subtitles.block.generic.hit",
     "sounds": [
       "pufferblocks:puffer_block_hit",
       "pufferblocks:puffer_block_hit1",
@@ -17,7 +17,7 @@
     ]
   },
   "puffer_block_place": {
-    "subtitle": "sounds.pufferblocks.puffer_block_place",
+    "subtitle": "subtitles.block.generic.place",
     "sounds": [
       "pufferblocks:puffer_block_place",
       "pufferblocks:puffer_block_place1",
@@ -25,7 +25,7 @@
     ]
   },
   "puffer_block_walk": {
-    "subtitle": "sounds.pufferblocks.puffer_block_walk",
+    "subtitle": "subtitles.block.generic.footsteps",
     "sounds": [
       "pufferblocks:puffer_block_walk"
     ]
