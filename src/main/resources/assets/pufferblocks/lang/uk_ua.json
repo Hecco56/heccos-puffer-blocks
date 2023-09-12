@@ -1,0 +1,7 @@
+{
+  "block.pufferblocks.puffer_block": "Блок скелезуба",
+  "sounds.pufferblocks.puffer_block_place": "Блок розміщено",
+  "sounds.pufferblocks.puffer_block_hit": "Блок ламається",
+  "sounds.pufferblocks.puffer_block_break": "Блок зламано",
+  "sounds.pufferblocks.puffer_block_walk": "Кроки"
+}
