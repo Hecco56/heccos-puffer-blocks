@@ -12,7 +12,7 @@ package hecco.puffer.blocks.registry;
 public class ModBlocks {
 
 
-    public static final Block PUFFER_BLOCK = new PufferBlock(FabricBlockSettings.of(Material.GLASS, MapColor.YELLOW).strength(0.25F, 2F).sounds(ModSounds.PUFFER_BLOCK).nonOpaque());
+    public static final Block PUFFER_BLOCK = new PufferBlock(FabricBlockSettings.create().nonOpaque().mapColor(MapColor.YELLOW).strength(0.25F, 2F).sounds(ModSounds.PUFFER_BLOCK));
 
     public static void registerBlocks() {
         Registry.register(Registries.BLOCK, new Identifier(PufferBlocks.MOD_ID, "puffer_block"), PUFFER_BLOCK);

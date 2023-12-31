@@ -29,5 +29,11 @@
     "sounds": [
       "pufferblocks:puffer_block_walk"
     ]
+  },
+  "puffer_block_burp": {
+    "subtitle": "sounds.pufferblocks.puffer_block_burp",
+    "sounds": [
+      "pufferblocks:puffer_block_burp"
+    ]
   }
 }

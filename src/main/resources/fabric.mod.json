@@ -10,7 +10,8 @@
   ],
   "contact": {
     "homepage": "https://twitter.com/hecco",
-    "sources": ""
+    "sources": "https://github.com/Hecco56/heccos-puffer-blocks",
+    "issues": "https://github.com/Hecco56/heccos-puffer-blocks/issues"
   },
 
   "license": "CC0-1.0",
@@ -31,7 +32,7 @@
   "depends": {
     "fabricloader": ">=0.14.19",
     "fabric-api": "*",
-    "minecraft": "~1.19.4",
+    "minecraft": "~1.20.1",
     "java": ">=17"
   },
   "suggests": {

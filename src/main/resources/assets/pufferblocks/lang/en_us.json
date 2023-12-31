@@ -3,5 +3,6 @@
   "sounds.pufferblocks.puffer_block_place": "Block Placed",
   "sounds.pufferblocks.puffer_block_hit": "Block Breaking",
   "sounds.pufferblocks.puffer_block_break": "Block Broken",
-  "sounds.pufferblocks.puffer_block_walk": "Footsteps"
+  "sounds.pufferblocks.puffer_block_walk": "Footsteps",
+  "sounds.pufferblocks.puffer_block_burp": "Puffer Block Burps"
 }
